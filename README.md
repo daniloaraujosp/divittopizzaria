@@ -10,3 +10,5 @@ Desenvolvimento de site para a Di Vitto Pizzaria, utilizando tema Bootstrap. Alt
 
 > Acesse o site: <br>
 > https://www.divittopizzaria.com.br/ 
+
+![image](https://github.com/user-attachments/assets/29e3aaac-5073-43ab-a425-c40f2648c784)
